@@ -11,7 +11,7 @@ My name is Ulises Salinas, I am a Computer Science student at the **University o
 
 ## 🚀 Work Experience
 ### Data System Analyst Intern (REU) 👾  June 2024 – Present
-Center for Applied Internet Data Analysis (CAIDA) UC San Diego 📍
+**Center for Applied Internet Data Analysis (CAIDA)** - UC San Diego 📍
 
 ### Software Engineer Intern 💻  March 2024 – July 2024
 **We Care Insurance** – Omaha, NE 📍

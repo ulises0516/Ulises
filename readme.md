@@ -23,4 +23,4 @@ Built a mobile app for personalized food recommendations, integrating React Nati
 
 ### Developer Journal 📓  | JavaScript, HTML/CSS [![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-181717?logo=github&logoColor=white)](https://github.com/cse110-sp24-group8/cse110-sp24-group8)
 
-Developed a collaborative journal application, focusing on responsive design and implementing an efficient CI/CD pipeline for smooth deployments
+Developed a collaborative journal application, focusing on responsive design and implementing an efficient CI/CD pipeline for smooth deployments.
